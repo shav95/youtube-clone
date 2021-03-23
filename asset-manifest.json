@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/youtube-clone/static/css/main.3196388b.chunk.css",
+    "main.js": "/youtube-clone/static/js/main.f05d1a19.chunk.js",
+    "main.js.map": "/youtube-clone/static/js/main.f05d1a19.chunk.js.map",
+    "runtime-main.js": "/youtube-clone/static/js/runtime-main.4253310a.js",
+    "runtime-main.js.map": "/youtube-clone/static/js/runtime-main.4253310a.js.map",
+    "static/js/2.beeadedf.chunk.js": "/youtube-clone/static/js/2.beeadedf.chunk.js",
+    "static/js/2.beeadedf.chunk.js.map": "/youtube-clone/static/js/2.beeadedf.chunk.js.map",
+    "static/js/3.45d1b3b0.chunk.js": "/youtube-clone/static/js/3.45d1b3b0.chunk.js",
+    "static/js/3.45d1b3b0.chunk.js.map": "/youtube-clone/static/js/3.45d1b3b0.chunk.js.map",
+    "index.html": "/youtube-clone/index.html",
+    "static/css/main.3196388b.chunk.css.map": "/youtube-clone/static/css/main.3196388b.chunk.css.map",
+    "static/js/2.beeadedf.chunk.js.LICENSE.txt": "/youtube-clone/static/js/2.beeadedf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4253310a.js",
+    "static/js/2.beeadedf.chunk.js",
+    "static/css/main.3196388b.chunk.css",
+    "static/js/main.f05d1a19.chunk.js"
+  ]
+}
